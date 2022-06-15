@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Transitions</string>
+    <string name="exit_transition">Exit Transition</string>
+    <string name="slide_out_left">Slide Out Left</string>
+    <string name="slide_out_right">Slide Out Right</string>
+    <string name="slide_out_top">Slide Out Top</string>
+    <string name="slide_out_bottom">Slide Out Bottom</string>
+    <string name="enter_transition">Enter Transition</string>
+    <string name="slide_in_left">Slide in Left</string>
+    <string name="slide_in_right">Slide in Right</string>
+    <string name="slide_in_top">Slide in Top</string>
+    <string name="slide_in_bottom">Slide in Bottom</string>
+    <string name="start">Start</string>
+    <string name="back">Zurück</string>
+    <string name="puff_out">Puff out</string>
+    <string name="scale_out">Scale out</string>
+    <string name="puff_in">Puff in</string>
+    <string name="scale_in">Scale in</string>
+
+</resources>
